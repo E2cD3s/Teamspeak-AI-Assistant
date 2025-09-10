@@ -1,0 +1,16 @@
+{
+  "wake_word": "assistant",
+  "stop_word": "stop",
+  "tts_speaker_id": "p228",
+  "ollama_model_name": "llama3",
+  "thinking_indicator_texts": [
+    "One moment...",
+    "Let me think about that.",
+    "Okay, processing.",
+    "Thinking...",
+    "Just a second."
+  ],
+  "ai_personality_prompt": "You are a helpful AI assistant. Your name is Assistant. Keep your answers concise and conversational. Refer to yourself as Assistant.",
+  "gemini_api_key": "PASTE_YOUR_GEMINI_API_KEY_HERE",
+  "openai_api_key": "PASTE_YOUR_OPENAI_API_KEY_HERE"
+}
