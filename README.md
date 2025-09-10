@@ -1,4 +1,4 @@
-# Multi-Brain AI Voice Companion for TeamSpeak
+# Multi-Brain AI Voice Assistant for TeamSpeak
 
 This project is a sophisticated, real-time, voice-activated AI assistant designed to run as a companion in a TeamSpeak voice channel. It features a modular, "pluggable brain" architecture, allowing you to switch between cloud-based models like Google Gemini and OpenAI's GPT-4, or a completely private, self-hosted model running on Ollama.
 
