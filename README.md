@@ -45,7 +45,7 @@ The system uses a robust dual virtual cable setup on Windows to create a stable,
 
    ```cmd
    cd C:\
-   git clone [[https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME](https://github.com/E2cD3s/Teamspeak-AI-Assistant).git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git) tsai
+   git clone [https://github.com/E2cD3s/Teamspeak-AI-Assistant.git](https://github.com/E2cD3s/Teamspeak-AI-Assistant.git) tsai
    cd tsai
    ```
 2. Set Up Python Environment:
